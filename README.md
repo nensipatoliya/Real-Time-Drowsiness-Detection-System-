@@ -27,7 +27,7 @@ These instructions will get you a copy of the project up and running on your loc
 1. Clone the repository. 
 
     ```
-    git clone https://github.com/nensipatoliya/Real-Time-Drowsiness-Detection-System
+    git clone https://github.com/nensipatoliya/Real-Time-Drowsiness-Detection-System-.git
     ```
     
 1. Move into the project directory. 
